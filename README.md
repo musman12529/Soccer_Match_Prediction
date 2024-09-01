@@ -28,4 +28,4 @@ A Random Forest classifier is used to train the model:
 ## Results
 
 - **Accuracy**: The initial model achieved an accuracy of 61.23%.
-- **Precision**: After incorporating rolling averages, the precision improved to 62.5%.
+- **Precision**: After incorporating rolling averages, the precision improved to 67%.
